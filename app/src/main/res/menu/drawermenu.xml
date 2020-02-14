@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/creator" android:title="Character Creator" android:icon="@drawable/ic_person_add_black_24dp"/>
+    <item android:id="@+id/about" android:title="About" android:icon="@drawable/ic_person_black_24dp"/>
+    <item android:id="@+id/pref" android:title="User Preferenes" android:icon="@drawable/ic_thumb_up_black_24dp"/>
+</menu>

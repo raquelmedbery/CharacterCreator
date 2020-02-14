@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CharacterCreator</string>
+    <string name="character_creator">Character Creator</string>
+    <string name="about">About Character Creator</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="create_your_own_character">Create Your Own Character For D&amp;D</string>
+    <string name="name">Character Name</string>
+    <string name="enter_character_name">Enter Character Name</string>
+    <string name="choose_race">Choose Race</string>
+    <string name="choose_class">Choose Class</string>
+    <string name="switch_light_dark">Switch Between Light Mode and Dark Mode</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="enter_character">Enter Character</string>
+    <string name="about_statement">Dungeons and Dragons has been around since 1974. It is the origin of modern RPG video games. An integral part of playing Dungeons and Dragons is creating a character that you can get attached to. Use this app to make the character creation process less stressful. To start character creating navigate to the character creation tab.</string>
+    <string name="view_data">View Data</string>
+    <string name="update_data">Update Data</string>
+    <string name="enter_id_to_update_character">Enter ID</string>
+    <string name="delete_character">Delete Character</string>
+    <string name="find_class">Find Class</string>
+    <string name="find_race">Find Race</string>
+    <string name="choose_classes_to_display">Choose Classes to Display</string>
+    <string name="pathfinder_classes">Pathfinder Classes</string>
+    <string name="dungeons_and_dragons_classes">Dungeons and Dragons Classes</string>
+    <string name="classes_to_choose">Classes to Choose</string>
+    <string name="choose_description">Choose which RPG classes you want to pick from</string>
+    <string name="classes">com.example.charactercreator.classes</string>
+    <string name="user_preferences">User Preferences</string>
+    <string name="to_update">To update character choose the id of the character you want to update and put the new data in the character creator before hitting update</string>
+    <string name="find_characters_by_class_or_by_race">Find characters by class or by race</string>
+</resources>

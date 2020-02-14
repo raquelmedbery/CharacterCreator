@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:entries ="@array/class_options"
+        android:entryValues="@array/class_options"
+        android:key="pref_numberOfChoices"
+        android:title="@string/classes_to_choose"
+        android:summary="@string/choose_description"
+        android:persistent="true"
+        android:defaultValue="Dungeons and Dragons"/>
+
+</PreferenceScreen>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding20dp">20dp</dimen>
+    <dimen name="size160dp">160dp</dimen>
+    <dimen name="text40sp">40sp</dimen>
+    <dimen name="textSize30sp">30sp</dimen>
+    <dimen name="textSize20sp">20sp</dimen>
+    <dimen name="size30dp">30dp</dimen>
+    <dimen name="size40dp">40dp</dimen>
+    <dimen name="textSize15sp">15sp</dimen>
+    <dimen name="size10dp">10dp</dimen>
+    <dimen name="textSize60sp">60sp</dimen>
+    <dimen name="size150dp">150dp</dimen>
+    <dimen name="size200dp">200dp</dimen>
+    <dimen name="textSize100sp">100sp</dimen>
+    <dimen name="size100dp">100dp</dimen>
+    <dimen name="size80dp">80dp</dimen>
+    <dimen name="textSize50sp">50sp</dimen>
+    <dimen name="size320dp">320dp</dimen>
+    <dimen name="size400dp">400dp</dimen>
+</resources>

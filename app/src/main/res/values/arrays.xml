@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="class_options">
+        <item>Dungeons and Dragons</item>
+        <item>Pathfinder</item>
+    </string-array>
+</resources>

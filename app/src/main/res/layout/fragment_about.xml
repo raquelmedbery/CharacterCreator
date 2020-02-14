@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/backgroundcolor"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/size400dp"
+            android:background="@drawable/ddart2"/>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/size10dp"
+            app:cardBackgroundColor="?attr/cardbackground"
+            android:layout_marginLeft="@dimen/size10dp"
+            android:layout_marginRight="@dimen/size10dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/size100dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="?attr/textcolor"
+            android:textSize="@dimen/textSize20sp"
+            android:text="@string/about_statement"
+            android:layout_margin="@dimen/padding20dp"/>
+
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/size320dp"
+        android:layout_marginLeft="@dimen/padding20dp"
+        android:text="@string/about"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textSize50sp"
+        android:fontFamily="@font/dalelands_font"
+        android:textStyle="bold"/>
+
+</FrameLayout>
